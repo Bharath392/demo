@@ -2,8 +2,13 @@ Hi I am bharath...
 
 Git commands:
 
+---> Part-I How to add a new file to github repo
+
 1. git clone "the link from the code"
 2. git status -> to check the status of the working area/folder
 3. git add filename.extension  -> added from working area to staging area
 4. git commit -m "your message" -> all the changes committed to the git local repo 
 5. git push origin main -> pushing the git local repo to the gitphub public repo
+
+---> end of  Part-I
+
