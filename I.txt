@@ -2,4 +2,7 @@ Hi I am bharath...
 
 Git commands:
 
-git clone "the link from the code"
+1. git clone "the link from the code"
+2. git status 
+3. git add filename.extension
+r.
