@@ -1,1 +1,5 @@
 Hi I am bharath...
+
+Git commands:
+
+git clone "the link from the code"
